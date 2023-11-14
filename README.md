@@ -1,6 +1,6 @@
 # Constructors and Inheritance College Challenge
 
-This project is an implementation of Java classes, showcasing the use of constructors and inheritance. It consists of three classes: `Associate`, `Collaborator`, and `Supplier`, all inheriting from a common `Person` class.
+This project is an implementation of Java classes, showcasing the use of constructors and inheritance. It consists of three classes: `Associado`, `Colaborador`, and `Fornecedor`, all inheriting from a common `Pessoa` class.
 
 ## 🔗 Links
 
@@ -10,9 +10,9 @@ This project is an implementation of Java classes, showcasing the use of constru
 
 The project demonstrates the usage of constructors and inheritance in Java. The `Associate`, `Collaborator`, and `Supplier` classes inherit from a common `Person` class, showcasing code reuse and class hierarchy.
 
-- `Associate`: This class represents an associate with an associate number and a situation.
-- `Collaborator`: This class represents a collaborator with a position.
-- `Supplier`: This class represents a supplier with a trade name and a website.
+- `Associado`: This class represents an associate with an associate number and a situation.
+- `Colaborador`: This class represents a collaborator with a position.
+- `Fornecedor`: This class represents a supplier with a trade name and a website.
 
 ## 🛠 Technologies
 
